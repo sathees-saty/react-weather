@@ -19,3 +19,4 @@ Step 5: npm start
 Step 6: run http://localhost:3000/ in browser
 <br>
 <html>
+![weather](https://github.com/sathees-saty/react-weather/assets/65384711/3926fb74-9f06-4f4e-8681-ad52643a323c)
